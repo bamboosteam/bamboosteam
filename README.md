@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi there 👋 I'm Takuma Takezawa.
 
+## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamboosteam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
