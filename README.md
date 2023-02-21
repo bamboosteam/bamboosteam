@@ -1,5 +1,4 @@
 # Hi there 👋 I'm Takuma Takezawa.
-🌱 I’m currently learning Computer Science at USC.
 ## Github Stats
 [![Takuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamboosteam)](https://github.com/anuraghazra/github-readme-stats)
 ## Top Languages Used
