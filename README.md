@@ -1,8 +1,7 @@
 # Hi there 👋 I'm Takuma Takezawa.
-Welcome to my profile! 
+Welcome to my profile! I am currently a Master's student majoring in Computer Science at the University of Southern California with a research background in image coding using convolutional neural networks [@Tokyo Institute of Technology](https://www.titech.ac.jp/english) and one year of professional experience in web application development [@SoftBank](https://www.softbank.jp/).
 
-I am currently a Master's student majoring in Computer Science at the University of Southern California. I have a research background in wavelet-based image coding using convolutional neural networks, and I have one year of professional experience in web application development using a range of technologies, including PHP, Laravel, Java, Spring Boot, HTML/CSS, Bootstrap, and PostgreSQL.
-
+### Currently open to an internship role for summer 2023
 As someone who is passionate about software development, I am strongly interested in opportunities as either a backend developer or a full-stack engineer. I am excited to leverage my skills and experience to develop innovative solutions that address complex problems. 
 
 You can see my portfolio examples:
