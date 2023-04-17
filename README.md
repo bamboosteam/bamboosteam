@@ -7,6 +7,7 @@ As someone who is passionate about software development, I am strongly intereste
 You can see my portfolio examples:
 * Web application: [Event Search App](https://webtech-hw8-ttakezaw.wl.r.appspot.com/search)
 * Research proceedings: [Image coding with Neural Networks](http://www.ijmlc.org/vol11/1026-T5003.pdf)
+* Check out my [resume](https://github.com/bamboosteam/resume/blob/master/Resume_Takuma_Takezawa.pdf)
 
 ## Get in touch with Me 📫
 * [LinkedIn](https://www.linkedin.com/in/takuma-takezawa/)
