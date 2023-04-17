@@ -4,7 +4,7 @@ I am currently a Master's student majoring in Computer Science at the University
 
 As someone who is passionate about software development, I am strongly interested in opportunities as either a backend developer or a full-stack engineer. I am excited to leverage my skills and experience to develop innovative solutions that address complex problems. I thrive in collaborative environments and am eager to contribute my knowledge and expertise to a dynamic team.
 
-You can see my portfolio examples here:
+You can see my portfolio examples:
 * Web application: [Event Search App](https://webtech-hw8-ttakezaw.wl.r.appspot.com/search)
 * Research proceedings: [Image coding with Neural Networks](http://www.ijmlc.org/vol11/1026-T5003.pdf)
 
