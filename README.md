@@ -5,7 +5,7 @@ Welcome to my profile! I am currently a Master's student majoring in Computer Sc
 As someone who is passionate about software development, I am strongly interested in opportunities as either a backend developer or a full-stack engineer. I am excited to leverage my skills and experience to develop innovative solutions that address complex problems. 
 
 You can see my portfolio examples:
-* Web application: [Event Search App](https://webtech-hw8-ttakezaw.wl.r.appspot.com/search)
+* Web application: [Event Search App](https://webtech-hw8-ttakezaw.wl.r.appspot.com/search)(Event Coverage: [North US and EU](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/))
 * Research proceedings: [Image coding with Neural Networks](http://www.ijmlc.org/vol11/1026-T5003.pdf)
 * Check out my [resume](https://github.com/bamboosteam/resume/blob/master/Resume_Takuma_Takezawa.pdf)
 
